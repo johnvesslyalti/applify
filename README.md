@@ -39,9 +39,9 @@ Explain in detail:
 ---
 
 ## Tech Stack
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** PostgreSQL, MongoDB  
+**Frontend:** Next.js App Router, Tailwind CSS, Shadcn UI
+**Backend:** Next.js API Routes
+**Database:** PostgreSQL, Prisma ORM
 **Others:** Prisma, Vercel, Docker  
 
 ---
@@ -56,10 +56,10 @@ Make sure you have installed:
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/username/project-name.git
+git clone https://github.com/johnvesslyalti/job-application-tracker.git
 
 # Navigate to project directory
-cd project-name
+cd job-application-tracker
 
 # Install dependencies
 npm install
@@ -119,15 +119,13 @@ Contributions are welcome!
 
 ---
 
-## License
+<!-- ## License
 
 Distributed under the MIT License.
 See [LICENSE](LICENSE) for more information.
 
----
+--- -->
 
 ## Contact
 
-**Your Name** – [LinkedIn](https://linkedin.com/in/yourusername) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/yourusername)
-
-```
+**Your Name** – [LinkedIn](https://linkedin.com/in/johnvesslyalti) | [Portfolio](https://johnvesslyalti.vercel.app) | [GitHub](https://github.com/johnvesslyalti)
