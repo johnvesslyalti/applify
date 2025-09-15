@@ -1,12 +1,12 @@
-🚀 Title:
+Title:
 
     Job Application Tracker
 
-📝 Description:
+Description:
 
     A web application to help users track their job applications, manage deadlines, and organize job search activities efficiently.
 
-## 📖 Table of Contents
+## Table of Contents
 - [About](#about)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🧐 About
+## About
 Explain in detail:
 - What the project is.
 - Why you built it (motivation).
@@ -31,14 +31,14 @@ Explain in detail:
 
 ---
 
-## ✨ Features
+## Features
 - ✅ Feature 1
 - ✅ Feature 2
 - ✅ Feature 3
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 **Frontend:** React, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express.js  
 **Database:** PostgreSQL, MongoDB  
@@ -46,7 +46,7 @@ Explain in detail:
 
 ---
 
-## 🚦 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have installed:
@@ -78,20 +78,20 @@ npm start
 
 ---
 
-## 📌 Usage
+## Usage
 
 Explain how users can use the project.
 Add CLI commands, screenshots, or API examples.
 
 ---
 
-## 🖼 Screenshots
+## Screenshots
 
 (Add images or GIFs showing the app UI/flow)
 
 ---
 
-## 📡 API Reference
+## API Reference
 
 ```http
 GET /api/example
@@ -107,7 +107,7 @@ GET /api/example
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 
@@ -119,20 +119,15 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
+## License
 
 Distributed under the MIT License.
 See [LICENSE](LICENSE) for more information.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Your Name** – [LinkedIn](https://linkedin.com/in/yourusername) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/yourusername)
 
-```
-
----
-
-👉 Do you want me to **customize this README for your Job Application Tracker project** (the one you mentioned earlier) with its stack and purpose?
 ```
