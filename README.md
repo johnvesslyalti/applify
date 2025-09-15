@@ -1,6 +1,6 @@
 Title:
 
-    Job Application Tracker
+    applify
 
 Description:
 
