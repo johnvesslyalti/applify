@@ -39,10 +39,10 @@ Explain in detail:
 ---
 
 ## Tech Stack
-**Frontend:** Next.js App Router, Tailwind CSS, Shadcn UI
+**Frontend:** Next.js App Router, Tailwind CSS, Shadcn UI<br>
 **Backend:** Next.js API Routes<br>
-**Database:** PostgreSQL, Prisma ORM
-**Others:** Prisma, Vercel, Docker  
+**Database:** PostgreSQL, Prisma ORM<br>
+**Others:** Prisma, Vercel, Docker<br>
 
 ---
 
