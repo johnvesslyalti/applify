@@ -39,10 +39,10 @@ Explain in detail:
 ---
 
 ## Tech Stack
-**Frontend:** Next.js App Router, Tailwind CSS, Shadcn UI<br>
+**Frontend:** Next.js App Router, Tailwind CSS, Shadcn UI
 **Backend:** Next.js API Routes<br>
-**Database:** PostgreSQL, Prisma ORM<br>
-**Others:** Prisma, Vercel, Docker<br>
+**Database:** PostgreSQL, Prisma ORM
+**Others:** Prisma, Vercel, Docker  
 
 ---
 
@@ -128,6 +128,4 @@ See [LICENSE](LICENSE) for more information.
 
 ## Contact
 
-**Your Name** – [LinkedIn](https://linkedin.com/in/yourusername) | [Portfolio](https://yourportfolio.com) | [GitHub](https://github.com/yourusername)
-
-```
+**Your Name** – [LinkedIn](https://linkedin.com/in/johnvesslyalti) | [Portfolio](https://johnvesslyalti.vercel.app) | [GitHub](https://github.com/johnvesslyalti)
